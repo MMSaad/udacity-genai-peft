@@ -30,8 +30,8 @@
   "revision": null,
   "target_modules": [
     "c_attn",
-    "c_fc",
-    "c_proj"
+    "c_proj",
+    "c_fc"
   ],
   "target_parameters": null,
   "task_type": "SEQ_CLS",
