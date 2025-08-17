@@ -6,6 +6,6 @@ PEFT implementation done for:
     - peft result: original model eval loss 1.8177480697631836 => peft model eval loss 0.5353090763092041
 - GPT-2
     - Dataset" "imdb"
-    - peft result: original model eval loss 0.05118923261761665 => peft model eval loss 0.05017903819680214
+    - peft result: original model eval loss 0.06124982237815857 => peft model eval loss 0.03673555329442024
 
 
